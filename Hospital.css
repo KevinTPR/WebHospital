@@ -1,0 +1,171 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 400;
+    color: hsl(197deg 100% 11%);
+}
+
+
+body{
+    background-image: url(Imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: hsl(209deg 77% 86%);
+}
+
+h1{
+    font-size: 100px;
+    color: hsl(197deg 100% 11%);
+    position: fixed;
+    right: 60px;
+    top: 100px;
+}
+
+#h1-2{
+    font-size: 100px;
+    color: hsl(197deg 100% 11%);
+    position: fixed;
+    right: 60px;
+    top: 190px;
+}
+
+#subtitulo{
+    font-size: 50px;
+    color: hsl(197deg 100% 11%);
+    position: fixed;
+    right: 60px;
+    bottom: 500px;
+    border-bottom: 1px solid hsl(197deg 100% 11%);
+}
+
+#fecha{
+    font-size: 60px;
+    color: hsl(197deg 100% 11%);
+    position: fixed;
+    right: 60px;
+    bottom: 350px;
+    border-bottom: 1px solid hsl(197deg 100% 11%);
+}
+
+h3{
+    font-size: 16px;
+    color: hsl(197deg 100% 11%);
+    position: fixed;
+    right: 60px;
+    bottom: 260px;
+}
+
+#h3-2{
+    position: fixed;
+    right: 60px;
+    bottom: 240px;
+}
+
+#h3-3{
+    position: fixed;
+    right: 60px;
+    bottom: 220px;
+}
+
+button{
+    background-color: hsl(205deg 82% 84%);
+    border: 0cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-size: 24px;
+}
+
+#boton-1{
+    position: fixed;
+    right:700px ;
+    top: 60px;
+}
+
+#boton-2{
+    position: fixed;
+    right: 400px;
+    top: 60px;
+}
+
+#boton-3{
+    position: fixed;
+    right: 210px;
+    top: 60px;
+}
+
+#boton-4{
+    position: fixed;
+    right: 70px;
+    top: 60px;
+}
+
+
+#redes{
+    position: fixed;
+    left: 410px;
+    top: 40px;
+    width: 20%;
+}
+
+#logo{
+    position: fixed;
+    left: 40px;
+    top: 10px;
+}
+
+#botones-6{
+    background-color: hsl(223deg 43% 92%);
+    border-bottom: 0cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-size: 26px;
+    color: rgb(92, 157, 182);
+
+    position: fixed;
+    right: 110px;
+    bottom: 68px;
+}
+
+#botones-5{
+    background-color: hsl(223deg 43% 92%);
+    border-bottom: 0cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-size: 26px;
+    color: rgb(92, 157, 182);
+
+    position: fixed;
+    right: 450px;
+    bottom: 68px;
+}
+
+#enfermera{
+    position:fixed;
+    left: 0px;
+    bottom: 0px;
+}
+
+#search{
+    background-color:  hsl(209deg 77% 86%);
+    position: fixed;
+    left: 800px;
+    top: 50px;
+    border: none;
+    padding: 15px 10px;
+    border-radius: 30px;
+}
+
+.input-wrapper {
+	position: relative;
+	width: 271px;
+}
+
+.input-icon {
+	color: #191919;
+	position: absolute;
+	width: 23px;
+	height: 23px;
+	left: 940px;
+	top: 20px;
+	transform: translateY(-50%);
+}
